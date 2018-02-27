@@ -200,7 +200,7 @@ Colors:
   padding: 24px 0px;
   box-sizing: border-box;
   background-color: #f3f6f8;
-  mask: url(ticket.svg);
+  mask: url(assets/img/bezkassira/ticket.svg);
   display: flex;
   flex-direction: column;
 }
