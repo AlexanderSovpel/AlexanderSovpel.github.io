@@ -209,6 +209,8 @@ Colors:
   width: 180px;
   height: 260px;
   margin-bottom: 16px;
+  background-image: url(../img/bezkassira/poster-2.jpg);
+  background-size: 110%;
   clip-path: inset(0 0 0 0);
   -webkit-clip-path: inset(0 0 0 0);
   transition: blur 0.25s;
