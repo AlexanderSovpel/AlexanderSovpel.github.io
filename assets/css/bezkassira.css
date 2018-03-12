@@ -441,8 +441,8 @@ Colors:
   padding: 24px 0px;
   box-sizing: border-box;
   background-color: #f3f6f8;
-  mask: url(assets/ticket.svg) left top / contain;
-  -webkit-mask: url(assets/ticket.svg) left top / contain;
+  mask: url(../img/bezkassira/ticket.svg) left top / contain;
+  -webkit-mask: url(../img/bezkassira/ticket.svg) left top / contain;
   display: flex;
   flex-direction: column;
 }
@@ -605,8 +605,8 @@ Colors:
   }
 
   .banner__ticket__content {
-    mask: url(assets/banner.svg) center / cover;
-    -webkit-mask: url(assets/banner.svg) center / cover;
+    mask: url(../img/bezkassira/banner.svg) center / cover;
+    -webkit-mask: url(../img/bezkassira/banner.svg) center / cover;
     background-color: #f3f6f8;
   }
 
@@ -620,7 +620,7 @@ Colors:
     width: 46px;
     height: 46px;
     border-radius: 50%;
-    background: url(assets/arnament.png) center / cover;
+    background: url(../img/bezkassira/arnament.png) center / cover;
     background-color: #ffffff;
     margin: 0px -23px;
     z-index: 1;
@@ -815,7 +815,7 @@ Colors:
 .tickets > .h2::before,
 .tickets > .h2::after {
   content: ' ';
-  background-image: url(assets/header-dots.png);
+  background-image: url(../img/bezkassira/header-dots.png);
   height: 4px;
   width: 44px;
   display: inline-block;
