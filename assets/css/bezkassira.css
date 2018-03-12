@@ -643,8 +643,7 @@ Colors:
   }
   
   .banner__ticket__details__name {
-    margin-top: 24px;
-    margin-bottom: 32px;
+    margin: 16px 0px;
   }
   
   .banner__ticket__details-secondary__date,
@@ -664,7 +663,7 @@ Colors:
     vertical-align: top;
     width: 24px;
     height: 24px;
-    margin-right: 16px;
+    margin-right: 8px;
   }
   
   .banner__ticket__details-secondary__date::before {
