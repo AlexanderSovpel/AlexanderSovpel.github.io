@@ -74,29 +74,29 @@ body {
   background-repeat: no-repeat;
   background-size: contain; }
   .weather-forecast .icon.clear {
-    background-image: url('../img/clear.png'); }
+    background-image: url('./img/clear.png'); }
   .weather-forecast .icon.rain {
-    background-image: url('../img/rain.png'); }
+    background-image: url('./img/rain.png'); }
   .weather-forecast .icon.snow {
-    background-image: url('../img/snow.png'); }
+    background-image: url('./img/snow.png'); }
   .weather-forecast .icon.sleet {
-    background-image: url('../img/sleet.png'); }
+    background-image: url('./img/sleet.png'); }
   .weather-forecast .icon.windy {
-    background-image: url('../img/wind.png'); }
+    background-image: url('./img/wind.png'); }
   .weather-forecast .icon.fog {
-    background-image: url('../img/fog.png'); }
+    background-image: url('./img/fog.png'); }
   .weather-forecast .icon.cloudy {
-    background-image: url('../img/cloudy.png'); }
+    background-image: url('./img/cloudy.png'); }
   .weather-forecast .icon.cloudy-sunny {
-    background-image: url('../img/cloudy-sunny.png'); }
+    background-image: url('./img/cloudy-sunny.png'); }
   .weather-forecast .icon.partly-cloudy {
-    background-image: url('../img/partly-cloudy.png'); }
+    background-image: url('./img/partly-cloudy.png'); }
   .weather-forecast .icon.thunderstorm {
-    background-image: url('../img/thunderstorm.png'); }
+    background-image: url('./img/thunderstorm.png'); }
   .weather-forecast .icon.scattered-showers {
-    background-image: url('../img/scattered-showers.png'); }
+    background-image: url('./img/scattered-showers.png'); }
   .weather-forecast .icon.cloudy-scattered-showers {
-    background-image: url('../img/cloudy-scattered-showers.png'); }
+    background-image: url('./img/cloudy-scattered-showers.png'); }
 
 .loader {
   box-sizing: border-box;
