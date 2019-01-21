@@ -16,21 +16,21 @@ const bannerPosters = [
     '2018-05-08',
     'Prime Hall',
     '30 – 40 р.',
-    'assets/img/bezkassira/banner-1.jpeg'
+    'img/banner-1.jpeg'
   ),
   new Ticket(
     'E-Commerce Day',
     '2018-03-30',
     'SPACE',
     '25 р.',
-    'assets/img/bezkassira/banner-2.png'
+    'img/banner-2.png'
   ),
   new Ticket(
     'Луна. Остров Свободы',
     '2018-05-10',
     'RE:PUBLIC',
     '68 р.',
-    'assets/img/bezkassira/banner-3.jpeg'
+    'img/banner-3.jpeg'
   ),
 ];
 
