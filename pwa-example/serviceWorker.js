@@ -32,7 +32,7 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   console.log('[ServiceWorker] Fetch', event.request.url);
 
-  const dataUrl = 'http://api.openweathermap.org/data/2.5/weather?q=Minsk,by&appid=eefae3388620d9e23738898664eb2bd9&units=metric';
+  const dataUrl = 'https://api.openweathermap.org/data/2.5/weather?q=Minsk,by&appid=eefae3388620d9e23738898664eb2bd9&units=metric';
 
   if (event.request.url.indexOf(dataUrl) === 0) {
     event.respondWith(fetchData());

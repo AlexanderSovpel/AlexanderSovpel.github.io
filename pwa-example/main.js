@@ -89,7 +89,7 @@ const createApp = function() {
 
     getForecast() {
       this.state.isLoading = true;
-      const url = 'http://api.openweathermap.org/data/2.5/weather?q=Minsk,by&appid=eefae3388620d9e23738898664eb2bd9&units=metric';
+      const url = 'https://api.openweathermap.org/data/2.5/weather?q=Minsk,by&appid=eefae3388620d9e23738898664eb2bd9&units=metric';
       const request = new XMLHttpRequest();
 
       request.onreadystatechange = () => {
